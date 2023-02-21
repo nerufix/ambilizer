@@ -19,6 +19,5 @@ Change `HOSTNAME` variable in `main.py` file to your Hyperion server's address a
 
 - Python 3.7+
 - numpy
-- hyperion-client
 - PyAudioWPatch
 
